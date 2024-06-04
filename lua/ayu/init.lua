@@ -8,7 +8,7 @@ local function set_terminal_colors()
   vim.g.terminal_color_1 = colors.markup
   vim.g.terminal_color_2 = colors.string
   vim.g.terminal_color_3 = colors.accent
-  vim.g.terminal_color_4 = "#000080"
+  vim.g.terminal_color_4 = colors.tag
   vim.g.terminal_color_5 = colors.constant
   vim.g.terminal_color_6 = colors.regexp
   vim.g.terminal_color_7 = colors.fg
